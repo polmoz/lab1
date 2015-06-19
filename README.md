@@ -2,4 +2,4 @@
 lab repository on GitHub
 
 ====
-Learning is a key.
+Learning is a key. Especially on Friday
